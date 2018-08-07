@@ -12,4 +12,4 @@ The data available to the model consists of vital signs and demographic info.
 
 [Further EDA](https://github.com/CraigGambino/Synthetic-Patient-Analysis/blob/master/post_fe_eda.ipynb)
 
-[Model](https://github.com/CraigGambino/Synthetic-Patient-Analysis/blob/master/diabetic_model.py)
+[Model](https://github.com/CraigGambino/Synthetic-Patient-Analysis/blob/master/classification_model.ipynb)
